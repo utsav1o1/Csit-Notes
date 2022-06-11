@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "productName": "1st Semester",
+    "image": "🧮",
+    "from": "Spain",
+    "nutrients": "Course Book <br>  KEC Book <br> Handwritten Notes <br> PDF Notes",
+    "quantity": "5 📚",
+    "price": "15 Credit Hrs", 
+    "organic": false,
+    "description": "Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) is a four-year course affiliated to Tribhuvan University designed for the students with all sorts of knowledge in the field of Information Technology and Computing. It provides the students with adequate theoretical and practical knowledge which enable students to participate in solving the complex problem of the IT industry. Below, we have provided the full syllabus of Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) for First Semester, Second Semester, Third Semester, Fourth Semester, Fifth Semester, Sixth Semester, Seventh Semester and Eighth Semester. You can download each subject syllabus of Bachelors of Science in Computer Science and Information Technology program from here."
+  },
+  {
+    "id": 1,
+    "productName": "2nd Semester",
+    "image": "🔠",
+    "from": "Portugal",
+    "nutrients": "Course Book <br>  KEC Book <br> Handwritten Notes <br> PDF Notes",
+    "quantity": "5 📚",
+    "price": "15 Credit Hrs",
+    "organic": false,
+    "description": "Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) is a four-year course affiliated to Tribhuvan University designed for the students with all sorts of knowledge in the field of Information Technology and Computing. It provides the students with adequate theoretical and practical knowledge which enable students to participate in solving the complex problem of the IT industry. Below, we have provided the full syllabus of Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) for First Semester, Second Semester, Third Semester, Fourth Semester, Fifth Semester, Sixth Semester, Seventh Semester and Eighth Semester. You can download each subject syllabus of Bachelors of Science in Computer Science and Information Technology program from here."
+  },
+  {
+    "id": 2,
+    "productName": "3rd Semester",
+    "image": "📈",
+    "from": "Portugal",
+    "nutrients": "Course Book <br>  KEC Book <br> Handwritten Notes <br> PDF Notes",
+    "quantity": "5📚",
+    "price": "15 Credit Hrs",
+    "organic": false,
+    "description": "Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) is a four-year course affiliated to Tribhuvan University designed for the students with all sorts of knowledge in the field of Information Technology and Computing. It provides the students with adequate theoretical and practical knowledge which enable students to participate in solving the complex problem of the IT industry. Below, we have provided the full syllabus of Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) for First Semester, Second Semester, Third Semester, Fourth Semester, Fifth Semester, Sixth Semester, Seventh Semester and Eighth Semester. You can download each subject syllabus of Bachelors of Science in Computer Science and Information Technology program from here."
+  },
+  {
+    "id": 3,
+    "productName": "4th Semester",
+    "image": "👨‍💻",
+    "from": "France",
+    "nutrients": "Course Book <br>  KEC Book <br> Handwritten Notes <br> PDF Notes",
+    "quantity": "5📚",
+    "price": "15 Credit Hrs",
+    "organic": false,
+    "description": "Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) is a four-year course affiliated to Tribhuvan University designed for the students with all sorts of knowledge in the field of Information Technology and Computing. It provides the students with adequate theoretical and practical knowledge which enable students to participate in solving the complex problem of the IT industry. Below, we have provided the full syllabus of Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) for First Semester, Second Semester, Third Semester, Fourth Semester, Fifth Semester, Sixth Semester, Seventh Semester and Eighth Semester. You can download each subject syllabus of Bachelors of Science in Computer Science and Information Technology program from here."
+  },
+  {
+    "id": 4,
+    "productName": "5th Semester",
+    "image": "🔐",
+    "from": "Germany",
+    "nutrients": "Course Book <br>  KEC Book <br> Handwritten Notes <br> PDF Notes",
+    "quantity": "6📚",
+    "price": "18 Credit Hrs",
+    "organic": true,
+    "description": "Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) is a four-year course affiliated to Tribhuvan University designed for the students with all sorts of knowledge in the field of Information Technology and Computing. It provides the students with adequate theoretical and practical knowledge which enable students to participate in solving the complex problem of the IT industry. Below, we have provided the full syllabus of Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) for First Semester, Second Semester, Third Semester, Fourth Semester, Fifth Semester, Sixth Semester, Seventh Semester and Eighth Semester. You can download each subject syllabus of Bachelors of Science in Computer Science and Information Technology program from here."
+  },
+  {
+    "id": 5,
+    "productName": "6th Semester",
+    "image": "🏃🏾‍♂️",
+    "from": "Germany",
+    "nutrients": "Course Book <br>  KEC Book <br> Handwritten Notes <br> PDF Notes",
+    "quantity": "6📚",
+    "price": "18 Credit Hrs",
+    "organic": true,
+    "description": "Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) is a four-year course affiliated to Tribhuvan University designed for the students with all sorts of knowledge in the field of Information Technology and Computing. It provides the students with adequate theoretical and practical knowledge which enable students to participate in solving the complex problem of the IT industry. Below, we have provided the full syllabus of Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) for First Semester, Second Semester, Third Semester, Fourth Semester, Fifth Semester, Sixth Semester, Seventh Semester and Eighth Semester. You can download each subject syllabus of Bachelors of Science in Computer Science and Information Technology program from here."
+  },
+  {
+    "id": 6,
+    "productName": "7th Semester",
+    "image": "🎯",
+    "from": "Germany",
+    "nutrients": "Course Book <br>  KEC Book <br> Handwritten Notes <br> PDF Notes",
+    "quantity": "5📚",
+    "price": "15 Credit Hrs",
+    "organic": true,
+    "description": "Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) is a four-year course affiliated to Tribhuvan University designed for the students with all sorts of knowledge in the field of Information Technology and Computing. It provides the students with adequate theoretical and practical knowledge which enable students to participate in solving the complex problem of the IT industry. Below, we have provided the full syllabus of Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) for First Semester, Second Semester, Third Semester, Fourth Semester, Fifth Semester, Sixth Semester, Seventh Semester and Eighth Semester. You can download each subject syllabus of Bachelors of Science in Computer Science and Information Technology program from here."
+  },
+  {
+    "id": 7,
+    "productName": "8th Semester",
+    "image": "👨🏻‍🎓",
+    "from": "Germany",
+    "nutrients": "Course Book <br>  KEC Book <br> Handwritten Notes <br> PDF Notes",
+    "quantity": "4📚",
+    "price": "15 Credit Hrs",
+    "organic": true,
+    "description": "Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) is a four-year course affiliated to Tribhuvan University designed for the students with all sorts of knowledge in the field of Information Technology and Computing. It provides the students with adequate theoretical and practical knowledge which enable students to participate in solving the complex problem of the IT industry. Below, we have provided the full syllabus of Bachelors of Science in Computer Science and Information Technology (Bsc.CSIT) for First Semester, Second Semester, Third Semester, Fourth Semester, Fifth Semester, Sixth Semester, Seventh Semester and Eighth Semester. You can download each subject syllabus of Bachelors of Science in Computer Science and Information Technology program from here."
+  }
+]
